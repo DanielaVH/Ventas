@@ -45,10 +45,5 @@ namespace Win.AutoloteL3
         {
 
         }
-
-        private void FormLogin_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
